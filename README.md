@@ -1,1 +1,1 @@
-# Redux_Practice
+# React_Practice
